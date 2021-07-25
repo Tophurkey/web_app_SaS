@@ -1,0 +1,2 @@
+flask:
+   secret_key: '969caca4707f9950d6bc40c2e8373148bd264e385ed9cf07'
